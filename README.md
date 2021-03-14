@@ -1,6 +1,10 @@
 # rM-signature-patch
 Simple script to remove that pesky advert at the bottom of a mail originating from a reMarkable.
 
+## Prerequisites
+This script relies on `opkg`, which is not installed by default on reMarkable devices.
+You can install it through [toltec](https://github.com/toltec-dev/toltec).
+
 ## Installation
 1. SSH into your reMarkable
 2. Paste the following and press enter:  
