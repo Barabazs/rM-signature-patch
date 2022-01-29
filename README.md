@@ -35,5 +35,5 @@ And finally the script restarts Xochitl and you're done.
 
 |Ethereum|Bitcoin|
 |:-:	|:-:	|
-|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|
+|0x6b78d3deea258914C2f4e44054d22094107407e5|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|
 |![eth](.github/eth.png)|![btc](.github/btc.png)|
