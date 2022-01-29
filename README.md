@@ -29,4 +29,11 @@ And finally the script restarts Xochitl and you're done.
 
 <br>  
 
+## Donations
+
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T51XKUJ)
+
+|Ethereum|Bitcoin|
+|:-:	|:-:	|
+|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|bc1qvvh8s3tt97cwy20mfdttpwqw0vgsrrceq8zkmw|
+|![eth](.github/eth.png)|![btc](.github/btc.png)|
